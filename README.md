@@ -10,9 +10,9 @@ Ultra-rapid prototyping using *HTML*, *CSS*, *Bootstrap* and *Fontawesome*.
 --
 ## After
 ### Dark theme
-![after-dark-1](https://user-images.githubusercontent.com/17111965/196035045-c223ff51-ff94-4779-8426-d858c941f5fa.png)
-![after-dark-2](https://user-images.githubusercontent.com/17111965/196035061-eab40a6a-5eb2-47f0-9f44-8db1218230b4.png)
+<img width="960" alt="after-dark-1" src="https://user-images.githubusercontent.com/17111965/196116957-c9cac392-342c-4b06-bd67-c9df06718833.png">
+<img width="960" alt="after-dark-2" src="https://user-images.githubusercontent.com/17111965/196117200-ca05fd47-4b64-4051-8874-e4fc77baed02.png">
 
 ### Light theme
-![after-light-1](https://user-images.githubusercontent.com/17111965/196035088-3b0f7ca0-a14a-410c-bb4a-624adf0794e7.png)
-![after-light-2](https://user-images.githubusercontent.com/17111965/196035097-20902e8b-dd64-4630-b97a-4f22490ee2f4.png)
+<img width="960" alt="after-light-1" src="https://user-images.githubusercontent.com/17111965/196117482-4a666eaa-658b-4c07-b336-e936b6cadadd.png">
+<img width="960" alt="after-light-2" src="https://user-images.githubusercontent.com/17111965/196117529-17ce1c0b-8266-47fe-bf75-c60ef53cfac9.png">
